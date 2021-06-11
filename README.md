@@ -1,2 +1,2 @@
 # imc-spring
-ssimples api to check imc
+simples api to check imc
